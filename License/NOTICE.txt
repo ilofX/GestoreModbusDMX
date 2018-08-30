@@ -1,0 +1,10 @@
+GestioneModbusDMX
+Copyright 2017 Filippo Stella.
+
+This product includes software developed at
+ADFWeb (https://www.adfweb.com/).
+
+Portions of this software were developed at ADFWeb by Elia Nasato
+and Francesco Soppera.
+
+The icon for this software was made by Brunello Giacomo.
